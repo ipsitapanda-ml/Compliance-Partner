@@ -1,4 +1,4 @@
-# Compliance-Partner-
+# Compliance-Partner
 
 AI-powered regulatory compliance discovery tool.
 
