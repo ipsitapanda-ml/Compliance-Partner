@@ -637,7 +637,7 @@ if st.session_state.active_section is None:
 if st.session_state.step == 1:
     # Step 1: Business Description
     st.markdown("### 📝 Step 1: Describe Your Business")
-    st.markdown("Tell us sticky your business in a few sentences. The more details you provide, the more accurate the results.")
+    st.markdown("Tell us about your business in a few sentences. The more details you provide, the more accurate the results.")
     
     business_input = st.text_area(
         "",
@@ -981,4 +981,5 @@ st.markdown("""
         Always consult with legal and compliance experts for business decisions.
     </p>
 </div>
+
 """, unsafe_allow_html=True)
