@@ -96,16 +96,6 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 - Timeline visualization
 - Security hardening
 
-**🔄 Phase 2: Intelligence (Q1 2025)**
-- Feedback loops for accuracy
-- Compliance scoring ("60% compliant")
-- Multi-language support
-
-**🚀 Phase 3: Platform (Q2 2025)**
-- Team collaboration
-- PDF reports
-- Calendar integration
-- API access
 
 ---
 
@@ -117,10 +107,10 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 3. Compliance consultants - Research tool, faster client delivery
 
 **Pricing (Future):**
-- Free: 5 searches/month
-- Pro: $49/month - unlimited
+- Free: 5 searches/quarter
+- Pro: $19/month - unlimited
 - Team: $199/month - collaboration
-- Enterprise: Custom - API + SSO
+
 
 ---
 
@@ -172,6 +162,4 @@ streamlit run app1.py
 
 This tool provides AI-generated analysis for research purposes. **NOT legal advice.** Always consult licensed professionals for compliance decisions.
 
----
 
-**Version:** 1.0.0 | **License:** MIT | **Contact:** [Your Name]
