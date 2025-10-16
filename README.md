@@ -10,7 +10,7 @@
 2. Set environment variable: `OPENAI_API_KEY=your_key_here`
 3. Run: `streamlit run app1.py`
 
-## 🎯 Product Vision
+## Product Vision
 
 **Problem:** SMBs spend 10+ hours researching compliance requirements across jurisdictions. Legal consultation costs $1500+.
 
@@ -20,7 +20,7 @@
 
 
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Natural Language Input
 Users describe their business naturally—no forms, no legal jargon.
@@ -38,7 +38,7 @@ Results organized by date with impact assessment (High/Medium/Low) and actionabl
 Prompt injection protection, rate limiting, input validation, and audit logging.
 
 
-## 📊 Success Metrics
+## Success Metrics
 
 | Metric | Target | Why It Matters |
 |--------|--------|----------------|
@@ -49,7 +49,7 @@ Prompt injection protection, rate limiting, input validation, and audit logging.
 
 
 
-## 🎨 User Journey
+## User Journey
 ```
 Step 1: Describe Business (30 sec)
    ↓
@@ -64,7 +64,7 @@ Export Results (JSON)
 
 
 
-## 🔧 Architecture
+## Architecture
 ```
 User Input → Security Layer → GPT-4 Intelligence → Google Search API → Results
 ```
@@ -76,7 +76,7 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 
 
 
-## 🛡️ Risk Management
+## Risk Management
 
 | Risk | Mitigation | Status |
 |------|------------|--------|
@@ -87,7 +87,7 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 
 
 
-## 📈 Roadmap
+## Roadmap
 
 **✅ Phase 1: MVP (Current)**
 - Natural language input
@@ -98,7 +98,7 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 
 
 
-## 💼 Go-to-Market
+## Go-to-Market
 
 **Target Segments:**
 1. Tech startups (0-50 employees) - High uncertainty, budget-conscious
@@ -111,7 +111,7 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 - Team: $199/month - collaboration
 
 
-## 🏆 Competitive Advantage
+## Competitive Advantage
 
 | Feature | Us | LegalZoom | Compliance.ai |
 |---------|-----|-----------|---------------|
@@ -123,7 +123,7 @@ User Input → Security Layer → GPT-4 Intelligence → Google Search API → R
 **Only solution combining natural language + real-time search + AI reasoning**
 
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 # Clone and install
 git clone https://github.com/yourusername/compliance-partner.git
